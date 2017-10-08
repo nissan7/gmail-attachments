@@ -9,3 +9,4 @@ and email (https://docs.python.org/3/library/email.html)
 
 Also to use this you will have to enable imap after logging in google 
 nd give permission to less secure apps(https://myaccount.google.com/lesssecureapps)
+just a trial
